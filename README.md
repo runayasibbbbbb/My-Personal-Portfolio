@@ -20,10 +20,11 @@
   - Basic Programming
   - Problem solving
   - Communication Skills
+  - Editing
 
   # Project and Contributions
   ### Hotel Reservation Management System
-  
+ - I edited using Canva and I fixed the code for the buttons to function.
   
   
   
